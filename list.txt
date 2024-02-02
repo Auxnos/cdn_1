@@ -1,3 +1,5 @@
 auxnos:plus
 uujz:piston
-AutoCrystalIndev:cape2
+AutoCrystalIndev:plus
+ThunderHack:plus
+BookBot:cape
