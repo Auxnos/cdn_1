@@ -3,3 +3,5 @@ uujz:piston
 AutoCrystalIndev:plus
 ThunderHack:plus
 BookBot:cape
+PappyVanPoodle:avo
+Cryoquart:avo
