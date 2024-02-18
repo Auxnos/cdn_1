@@ -5,3 +5,4 @@ ThunderHack:plus
 BookBot:cape
 PappyVanPoodle:avo
 Cryoquart:avo
+YappyVanPoodle:yap
